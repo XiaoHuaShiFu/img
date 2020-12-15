@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="filesystem:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1b10ff8-083f-4cbb-9edd-b7520e71bd09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/Java/apache-maven-3.0.5" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1icuvHcy7L6I1BgrXaYut4jjm54" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="filesystem" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578583097671" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\Github\SpecializedCourseCode\os\filesystem\src" />
+      <recent name="C:\Users\lenovo\Desktop\Github\SpecializedCourseCode\os\filesystem\src\top\xiaohuashifu\filesystem" />
+      <recent name="C:\Users\lenovo\Desktop\Github\SpecializedCourseCode\os\filesystem\src\top\xiaohuashifu\filesystem\disk" />
+      <recent name="C:\Users\lenovo\Desktop\Github\SpecializedCourseCode\os\filesystem\src\top\xiaohuashifu\filesystem\page\index" />
+      <recent name="C:\Users\lenovo\Desktop\Github\SpecializedCourseCode\os\filesystem\src\top\xiaohuashifu\filesystem\page\image" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top.xiaohuashifu.filesystem.directory.exception" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\SpecializedCourseCode\文档\os\filesystem\src\top\xiaohuashifu\filesystem\page\image" />
+      <recent name="D:\Github\SpecializedCourseCode\文档\os\filesystem\src\top\xiaohuashifu\filesystem\page\disk" />
+      <recent name="C:\Users\lenovo\Desktop\Github\SpecializedCourseCode\os\filesystem" />
+      <recent name="C:\Users\lenovo\Desktop\Github\SpecializedCourseCode\os\filesystem\src" />
+      <recent name="C:\Users\lenovo\Desktop\Github\SpecializedCourseCode\os\filesystem\out\production\filesystem" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="item" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Starter">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiskConstant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.xiaohuashifu.filesystem.disk.DiskConstant" />
+      <module name="filesystem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.xiaohuashifu.filesystem.disk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.xiaohuashifu.filesystem.test.FileManagerTest" />
+      <module name="filesystem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.xiaohuashifu.filesystem.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Starter (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.xiaohuashifu.filesystem.Starter" />
+      <module name="filesystem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.xiaohuashifu.filesystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Starter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.xiaohuashifu.filesystem.page.Starter" />
+      <module name="filesystem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.xiaohuashifu.filesystem.page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top.xiaohuashifu.filesystem.util.StringUtils" />
+      <module name="filesystem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.xiaohuashifu.filesystem.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Starter" />
+        <item itemvalue="Application.StringUtils" />
+        <item itemvalue="Application.FileManagerTest" />
+        <item itemvalue="Application.DiskConstant" />
+        <item itemvalue="Application.Starter (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1b10ff8-083f-4cbb-9edd-b7520e71bd09" name="Default Changelist" comment="" />
+      <created>1572193317694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572193317694</updated>
+      <workItem from="1572193321190" duration="4756000" />
+      <workItem from="1572256917634" duration="4169000" />
+      <workItem from="1572338250970" duration="19642000" />
+      <workItem from="1572366177779" duration="18582000" />
+      <workItem from="1572500999650" duration="21389000" />
+      <workItem from="1572591611601" duration="9620000" />
+      <workItem from="1572629437145" duration="3644000" />
+      <workItem from="1572673302133" duration="13858000" />
+      <workItem from="1572751292879" duration="31800000" />
+      <workItem from="1572847319336" duration="25035000" />
+      <workItem from="1572919443945" duration="6024000" />
+      <workItem from="1572933259147" duration="102000" />
+      <workItem from="1572934093340" duration="9331000" />
+      <workItem from="1573054228379" duration="111000" />
+      <workItem from="1573055117413" duration="180000" />
+      <workItem from="1573219268348" duration="54000" />
+      <workItem from="1573219334293" duration="60000" />
+      <workItem from="1573487562713" duration="7247000" />
+      <workItem from="1573524171357" duration="3099000" />
+      <workItem from="1573659451065" duration="926000" />
+      <workItem from="1573660429934" duration="807000" />
+      <workItem from="1573733335419" duration="118000" />
+      <workItem from="1578288335509" duration="69000" />
+      <workItem from="1578288681773" duration="40000" />
+      <workItem from="1578291003264" duration="613000" />
+      <workItem from="1578293385400" duration="540000" />
+      <workItem from="1578327552089" duration="139000" />
+      <workItem from="1578382226995" duration="5588000" />
+      <workItem from="1578394155844" duration="29381000" />
+      <workItem from="1578547665945" duration="19027000" />
+      <workItem from="1578583002131" duration="96000" />
+      <workItem from="1579779916657" duration="734000" />
+      <workItem from="1602219431729" duration="448000" />
+      <workItem from="1603279870662" duration="167000" />
+      <workItem from="1603610391381" duration="460000" />
+      <workItem from="1603610871188" duration="4427000" />
+      <workItem from="1603689502310" duration="13394000" />
+      <workItem from="1603796709370" duration="4000" />
+      <workItem from="1603980357358" duration="726000" />
+      <workItem from="1604735917336" duration="327000" />
+      <workItem from="1604736476947" duration="44000" />
+      <workItem from="1604736617663" duration="286000" />
+      <workItem from="1605941369824" duration="4876000" />
+      <workItem from="1605946683259" duration="6000" />
+      <workItem from="1606470416399" duration="238000" />
+      <workItem from="1606490980856" duration="562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1605944930265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1605944930265" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603711996077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603711996077" />
+    <state width="1493" height="76" key="GridCell.Tab.0.bottom" timestamp="1605946278332">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="76" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605946278332" />
+    <state width="1493" height="76" key="GridCell.Tab.0.center" timestamp="1605946278332">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="76" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605946278332" />
+    <state width="1493" height="76" key="GridCell.Tab.0.left" timestamp="1605946278332">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="76" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605946278332" />
+    <state width="1493" height="76" key="GridCell.Tab.0.right" timestamp="1605946278332">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="76" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605946278332" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1605944257533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1605944257533" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605942325415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605942325415" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>filesystem:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>filesystem</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
